@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Kishore 👋
+
+Welcome to my GitHub profile!
+
+Showcasing my Holopin badges for Hacktoberfest 2025 🎖️🚀  
+
+[![An image of @kishore0807's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishore0807)](https://holopin.io/@kishore0807)
+
 
 <!--
 **kishore08-07/kishore08-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
