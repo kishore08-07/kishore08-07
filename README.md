@@ -35,10 +35,10 @@ Welcome to my GitHub profile!
 <br>
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank">
-    <img src="images/lvl0-human.webp" width="120" height="120" alt="Level 0 Human Badge" style="margin:10px;">
+    <img src="images/badges/lvl0-human.webp" width="120" height="120" alt="Level 0 Human Badge" style="margin:10px;" hspace="8">
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank">
-    <img src="images/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;">
+    <img src="images/badges/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;" hspace="8">
   </a>
 </p>
 
