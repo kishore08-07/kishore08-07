@@ -21,6 +21,8 @@ Welcome to my GitHub profile!
 
 Showcasing my Holopin badges for Hacktoberfest 2025 🎖️🚀  
 
+[![Hacktoberfest 2025 Contributor](https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest2025-badge.png)](https://cloud.layer5.io/user/dfe979f6-6afb-4c6e-aa4a-bff78249c988?tab=badges&badge=hacktoberfest25)
+
 [![An image of @kishore0807's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishore0807)](https://holopin.io/@kishore0807)
 
 
