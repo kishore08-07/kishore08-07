@@ -29,8 +29,8 @@ Welcome to my GitHub profile!
 <br><br>
 
 <div align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank"><img src="images/badges/lvl0-human.webp" width="130" height="130" alt="Level 1 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank"><img src="images/badges/lvl1-human.webp" width="130" height="130" alt="Level 1 Human Badge" hspace="7.5"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank"><img src="images/lvl0-human.webp" width="130" height="130" alt="Level 1 Human Badge" hspace="7.5"></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank"><img src="images/lvl1-human.webp" width="130" height="130" alt="Level 1 Human Badge" hspace="7.5"></a>
   <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79ht7004gjr04p8uesi4s" target="_blank"><img src="images/Badges/lvl2-human.webp" width="130" height="130" alt="Level 2 Human Badge" hspace="7.5"></a> --> -->
   <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79yol000ylg042fxx8b0d" target="_blank"><img src="images/Badges/lvl3-human.webp" width="130" height="130" alt="Level 3 Human Badge" hspace="7.5"></a> -->
   <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgiaiqhx0064ju04bmu6tbfr" target="_blank"><img src="images/Badges/lvl4-human.webp" width="130" height="130" alt="Level 4 Human Badge" hspace="7.5"></a> -->
