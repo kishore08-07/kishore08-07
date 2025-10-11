@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 <br>
 <div align="center">
   <a href="https://cloud.layer5.io/user/dfe979f6-6afb-4c6e-aa4a-bff78249c988?tab=badges&badge=hacktoberfest25">
-    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest2025-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest   2025 Contributor"/>
   </a>
 </div>
 <br>
