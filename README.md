@@ -40,6 +40,9 @@ Welcome to my GitHub profile!
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank">
     <img src="images/badges/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;" hspace="8">
   </a>
+ <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmglpbur50041l204fmkxsuxf" target="_blank">
+    <img src="images/badges/lvl2-human.webp" width="120" height="120" alt="Level 2 Human Badge" style="margin:10px;" hspace="8">
+  </a>
 </p>
 
   <!-- Uncomment below lines as you earn higher levels -->
