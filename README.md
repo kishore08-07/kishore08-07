@@ -34,22 +34,26 @@ Welcome to my GitHub profile!
 ## 🎖️ Holopin Badges    
 <br>
 <p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank">
+  <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank">
     <img src="images/badges/lvl0-human.webp" width="120" height="120" alt="Level 0 Human Badge" style="margin:10px;" hspace="8">
-  </a>
+  </a> -->
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank">
     <img src="images/badges/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;" hspace="8">
   </a>
+ 
  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmglpbur50041l204fmkxsuxf" target="_blank">
     <img src="images/badges/lvl2-human.webp" width="120" height="120" alt="Level 2 Human Badge" style="margin:10px;" hspace="8">
   </a>
-</p>
+ 
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgrj0pva0010jx04tut49ii5" target="_blank">
+    <img src="images/badges/lvl3-human.webp" width="120" height="120" alt="Level 3 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+  
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgtgbq55000kla0402f3d4rt" target="_blank">
+    <img src="images/badges/lvl4-human.webp" width="120" height="120" alt="Level 4 Human Badge" style="margin:10px;" hspace="8">
+  </a>
 
-  <!-- Uncomment below lines as you earn higher levels -->
-  <!--
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79ht7004gjr04p8uesi4s" target="_blank"><img src="images/lvl2-human.webp" width="130" height="130" alt="Level 2 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi79yol000ylg042fxx8b0d" target="_blank"><img src="images/lvl3-human.webp" width="130" height="130" alt="Level 3 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgiaiqhx0064ju04bmu6tbfr" target="_blank"><img src="images/lvl4-human.webp" width="130" height="130" alt="Level 4 Human Badge" hspace="7.5"></a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgj1ia0o002njr04wddv1hc8" target="_blank"><img src="images/lvl5-human.webp" width="130" height="130" alt="Level 5 Human Badge" hspace="7.5"></a>
-  -->
+ 
+</p>
+ 
 </div>
