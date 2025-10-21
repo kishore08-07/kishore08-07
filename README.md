@@ -53,7 +53,10 @@ Welcome to my GitHub profile!
     <img src="images/badges/lvl4-human.webp" width="120" height="120" alt="Level 4 Human Badge" style="margin:10px;" hspace="8">
   </a>
 
- 
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0cakel00f7ju04zhc9iz0w" target="_blank">
+    <img src="images/badges/lvl5-human.webp" width="120" height="120" alt="Level 5 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+
 </p>
  
 </div>
