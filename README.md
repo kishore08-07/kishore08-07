@@ -21,10 +21,14 @@ Welcome to my GitHub profile!
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishore08-07&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 50px;"><img src="https://github-readme-stats.vercel.app/api?username=kishore08-07&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore08-07&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore08-07&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" /> -->
+  
+  <!-- ![](https://github-readme-streak-stats-eight.vercel.app/?user=kishore08-07&theme=merko) -->
+   
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kishore08-07)
+  
 </div>
 <br>
 
@@ -32,13 +36,11 @@ Welcome to my GitHub profile!
 <br>
 <div align="center">
   <a href="https://cloud.layer5.io/user/dfe979f6-6afb-4c6e-aa4a-bff78249c988?tab=badges&badge=hacktoberfest25">
-    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest   2025 Contributor"/>
+    <img width="170px" height="254px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 </div>
 <br>
-
-
-## 🎖️ Holopin Badges    
+   
 <br>
 <p align="center">
   <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank">
