@@ -1,6 +1,10 @@
-## 👋 Hi, I'm Kishore  
+## 👋 Hi there, I'm Kishore  
 
-Welcome to my GitHub profile!  
+<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kishore08-07.kishore08-07)-->
+
+![Profile Views](https://komarev.com/ghpvc/?username=kishore08-07&label=Profile%20Views&color=0e75b6&style=flat&v=1)
+
+
  <br>
 
 ## 🚀 Technologies & Skills  
@@ -21,10 +25,8 @@ Welcome to my GitHub profile!
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 50px;"><img src="https://github-readme-stats.vercel.app/api?username=kishore08-07&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore08-07&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" /> -->
-  
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 50px;">
+ 
   <!-- ![](https://github-readme-streak-stats-eight.vercel.app/?user=kishore08-07&theme=merko) -->
    
   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kishore08-07)
@@ -43,9 +45,7 @@ Welcome to my GitHub profile!
    
 <br>
 <p align="center">
-  <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfy2fl7l000ijp04jzbs8mr8" target="_blank">
-    <img src="images/badges/lvl0-human.webp" width="120" height="120" alt="Level 0 Human Badge" style="margin:10px;" hspace="8">
-  </a> -->
+ 
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgi1oa31002yif047rl51t49" target="_blank">
     <img src="images/badges/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;" hspace="8">
   </a>
