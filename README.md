@@ -27,7 +27,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 0 50px;">
  
-  ![Github Stats](https://k-charts.vercel.app/api?username=kishore08-07&theme=highcontrast)
+  ![Github Stats](https://k-charts.vercel.app/api?username=kishore08-07&theme=dark)
    
   <!--![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kishore08-07) -->
   
